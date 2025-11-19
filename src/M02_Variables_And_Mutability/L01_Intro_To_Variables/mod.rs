@@ -1,0 +1,4 @@
+mod T01_variables_basics;
+mod T02_interpolation_with_curly_braces;
+mod T03_debug_printing;
+mod T04_implementing_fmtDisplay;
